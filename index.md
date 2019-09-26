@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![avatar](avatar.jpg)
+![me](me.jpg)
 
 # Tom Yang
 
